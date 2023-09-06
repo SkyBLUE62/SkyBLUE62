@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyblue62&label=Profile%20views&color=0e75b6&style=flat" alt="skyblue62" /> </p>
 
-- 🌱 I’m currently learning **NextJS et prisma**
+-  I’m currently learning **NextJS & Prisma**
 
-- 👨‍💻 All of my projects are available at [https://thomas-alexandre.com](https://thomas-alexandre.com)
+-  All of my projects are available at [https://thomas-alexandre.com](https://thomas-alexandre.com)
 
-- 💬 Ask me about **Laravel, ReactJS, NextJS, TailwindCSS**
+-  Ask me about **Laravel, ReactJS, NextJS, TailwindCSS**
 
-- 📫 How to reach me **pro.thomas.alexandre@gmail.com**
+-  How to reach me **pro.thomas.alexandre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skyblue62&show_icons=true&locale=en&layout=compact" alt="skyblue62" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyblue62&show_icons=true&locale=en" alt="skyblue62" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyblue62&" alt="skyblue62" /></p>
