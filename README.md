@@ -11,12 +11,12 @@
 - 📫 How to reach me **pro.thomas.alexandre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div>
+<div style="display: flex; flex-direction: row;">
 <p align="left">
 <a href="https://linkedin.com/in/thomas-alexandre-081a1b235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-alexandre-081a1b235" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://www.malt.fr/profile/thomasalexandre" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_Malt.svg/1200px-Logo_Malt.svg.png" alt="maltLogo" height="30" width="40" /></a>
+<a href="https://www.malt.fr/profile/thomasalexandre" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_Malt.svg/1200px-Logo_Malt.svg.png" alt="maltLogo" height="30" width="50" /></a>
 </p>
 </div>
 
