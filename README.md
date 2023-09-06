@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyblue62&label=Profile%20views&color=0e75b6&style=flat" alt="skyblue62" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyblue62" alt="skyblue62" /></a> </p>
-
 - 🌱 I’m currently learning **NextJS et prisma**
 
 - 👨‍💻 All of my projects are available at [https://thomas-alexandre.com](https://thomas-alexandre.com)
