@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/thomas-alexandre-081a1b235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-alexandre-081a1b235" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://www.malt.fr/profile/thomasalexandre" target="blank"><img align="center" src="!(https://github.com/SkyBLUE62/SkyBLUE62/assets/100870855/4e2c0800-5656-4252-852c-ec58598ff3a5)" alt="maltLogo" height="30" width="40" /></a>
+<a href="https://www.malt.fr/profile/thomasalexandre" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_Malt.svg/1200px-Logo_Malt.svg.png" alt="maltLogo" height="30" width="40" /></a>
 </p>
 </div>
 
