@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NextJS & Prisma**
 
-- 👨‍💻 All of my projects are available at [https://thomas-alexandre.com](https://thomas-alexandre.com)
+- 👨‍💻 All of my projects are available at [https://thomas-alexandre.fr](https://thomas-alexandre.fr)
 
 - 💬 Ask me about *Laravel, ReactJS, NextJS, NodeJS, TailwindCSS, SQL, PostgreSQL*
 
