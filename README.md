@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thomas-alexandre.fr](https://thomas-alexandre.fr)
 
-- 💬 Ask me about *Laravel, ReactJS, NextJS, NodeJS, TailwindCSS, SQL, PostgreSQL*
+- 💬 Ask me about *ReactJS, NextJS, NodeJS, TailwindCSS, SQL, PostgreSQL*
 
 - 📫 How to reach me **pro.thomas.alexandre@gmail.com**
 
